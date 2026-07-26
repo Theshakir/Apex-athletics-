@@ -1,0 +1,6 @@
+{
+  "name": "Apex Athletics",
+  "description": "Marathon and fitness organization based in Kulgam, Jammu & Kashmir, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
